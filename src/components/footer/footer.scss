@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  font-family: Lexend;
+  color: var(--secondary-dark, #1939b7);
+
+  span {
+    &:first-child {
+      font-weight: bold;
+    }
+
+    &:last-child {
+      font-size: 14px;
+    }
+  }
+}

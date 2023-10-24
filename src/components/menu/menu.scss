@@ -1,0 +1,37 @@
+.menu {
+  margin-top: 65px;
+  .item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+
+    .title {
+      font-size: 12px;
+      font-weight: bold;
+      padding-left: 20px;
+      color: #637381;
+      text-transform: uppercase;
+    }
+
+    .listItem {
+      display: flex;
+      align-items: center;
+      padding: 20px;
+      border-radius: 8px;
+      color: #637381;
+      font-family: Public Sans;
+      &:hover {
+        background-color: #eff3ff;
+      }
+      .listItemTitle {
+        padding-left: 20px;
+      }
+
+      img {
+        width: 24px;
+        height: 24px;
+      }
+    }
+  }
+}
