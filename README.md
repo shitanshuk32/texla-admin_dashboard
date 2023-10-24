@@ -29,10 +29,3 @@ This project utilizes the following technologies and packages:
 
 3. **Comprehensive Insights:** Detailed user statistics, product performance metrics, conversion rates, and revenue analysis are provided, enabling businesses to make data-driven decisions and track performance effectively.
 
-## How to Contribute
-
-Feel free to contribute to the project by creating pull requests. Please ensure that your changes follow the project's coding style and do not introduce any breaking changes.
-
-## License
-
-This project is licensed under the MIT License.
