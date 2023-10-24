@@ -29,3 +29,9 @@ This project utilizes the following technologies and packages:
 
 3. **Comprehensive Insights:** Detailed user statistics, product performance metrics, conversion rates, and revenue analysis are provided, enabling businesses to make data-driven decisions and track performance effectively.
 
+## Deployed Using Netlify
+
+Here is the link :- https://jocular-cascaron-d13af6.netlify.app/
+
+
+
